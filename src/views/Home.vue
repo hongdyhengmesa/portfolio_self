@@ -82,7 +82,7 @@
             <a href="https://github.com/hongdyhengmesa" class="w-8 h-8 flex items-center justify-center border border-white/10 rounded hover:border-indigo-400 hover:text-indigo-400">
               <GithubIcon :size="20" />
             </a>
-            <a href="https://www.linkedin.com/in/hong-dihengmesa-0a1994355/" class="w-8 h-8 flex items-center justify-center border border-white/10 rounded hover:border-indigo-400 hover:text-indigo-400">
+            <a href="https://www.linkedin.com/in/hong-dyhengmesa-74b3b536b/" class="w-8 h-8 flex items-center justify-center border border-white/10 rounded hover:border-indigo-400 hover:text-indigo-400">
               <LinkedinIcon :size="20" />
             </a>
             <a href="https://web.facebook.com/hong.dyhengmesa.2025" class="w-8 h-8 flex items-center justify-center border border-white/10 rounded hover:border-indigo-400 hover:text-indigo-400">

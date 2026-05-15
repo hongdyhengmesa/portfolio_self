@@ -3,7 +3,7 @@
     <div class="max-w-screen-xl mx-auto flex items-center justify-between p-4">
 
       <!-- Logo -->
-      <h1 class="text-white text-xl font-bold">MyPortfolio</h1>
+      <h1 class="text-white text-xl font-bold">My-Portfolio</h1>
 
       <!-- Desktop Menu -->
       <ul class="hidden md:flex gap-8 text-gray-300">
