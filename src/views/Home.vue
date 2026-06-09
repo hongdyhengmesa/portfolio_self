@@ -54,12 +54,14 @@
 
         <!-- Bio -->
         <p class="text-gray-400 max-w-md mb-10">
-          I build fast, accessible, and enjoyable web experiences — using Vue.js and NestJS.
+          I learn at Institute of Technology of Cambodia(ITC)
+          from Department of Information and Communication Engineering(GIC).
+          Computer Science Student
         </p>
 
         <!-- Buttons -->
         <div class="flex gap-4 flex-wrap">
-          <a href="/cv.pdf" download class="relative overflow-hidden group bg-indigo-500 px-6 py-3 text-white font-semibold rounded">
+          <a href="/src/assets/Hong_Dyhengmesa_Resume.pdf" download class="relative overflow-hidden group bg-indigo-500 px-6 py-3 text-white font-semibold rounded">
             <span class="relative z-10 flex items-center gap-2">
               <DownloadIcon :size="14" /> Download CV
             </span>

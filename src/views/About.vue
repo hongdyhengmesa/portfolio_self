@@ -46,19 +46,21 @@
             </span>
           </h1>
 
-          <p class="text-gray-400 leading-8 text-[14px] sm:text-[15px] max-w-xl mb-4">
-            Hello, I'm Mesa — a web developer passionate about building
-            beautiful, scalable, and modern applications with clean code and
-            meaningful user experiences.
+          <p class="text-gray-400 leading-5 text-[14px] sm:text-[15px] max-w-xl mb-4">
+            Conputer Science student with hands-on experience in bakcend development, full-stack 
+            applications, and mobile applications. Skilled in VueJs, NodeJs, Flutter, and REST API
+            development through real-world software and engineering projects. Passionate about 
+            building pratical and user-friendly applications while continuously improving technicial
+            and problem-solving skills.
           </p>
 
-          <p class="text-gray-400 leading-8 text-[14px] sm:text-[15px] max-w-xl mb-6 sm:mb-8">
-            I specialize in Vue.js, NestJS, and modern frontend technologies,
+          <p class="text-gray-400 leading-5 text-[14px] sm:text-[15px] max-w-xl mb-6 sm:mb-8">
+            I specialize in VueJs, NestJS, and modern frontend technologies,
             creating interfaces that are responsive, elegant, and enjoyable to use.
           </p>
 
           <a
-            href="#"
+            href="/src/assets/Hong_Dyhengmesa_Resume.pdf"
             class="inline-flex items-center gap-3 px-6 py-3.5 sm:px-7 sm:py-4
                    rounded-2xl border border-cyan-400/20 bg-cyan-500/5 text-cyan-300
                    uppercase tracking-[0.2em] text-xs
@@ -66,7 +68,7 @@
                    transition-all duration-300
                    hover:shadow-[0_0_40px_rgba(34,211,238,0.2)]"
           >
-            Download CV
+            Checking CV here
           </a>
         </div>
 
